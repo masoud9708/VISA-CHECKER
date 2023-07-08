@@ -1,1 +1,1 @@
-
+visa number|data|cvv

@@ -5,3 +5,4 @@ sudo install ptrhon3-pip <br>
 sudo pip install pyfiglet <br>
 sudo pip install requests <br>
 sudo python3 'stripe 12$.py'
+# Edite JOK.txt (add informations visa card)

